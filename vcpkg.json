@@ -1,0 +1,11 @@
+{
+    "name": "openglgame",
+    "version": "1.0",
+    "dependencies": [
+        "glfw3",
+        "opengl",
+        "soil2",
+        "glew",
+        "glm"
+    ]
+}
